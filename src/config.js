@@ -1,3 +1,5 @@
-export default {
-  apiKey: "XXX"
+const config = {
+  "apiKey": "XXX",
 };
+
+export default config;
